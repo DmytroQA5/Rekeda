@@ -7,6 +7,6 @@ public class ClassWork1 {
         Scanner dls = new Scanner(System.in);
         System.out.println("Insert");
         int x = dls.nextInt();
-        if(x % 12 == 0 &&)
+        if(x % 12 == 0 &&);
     }
 }
