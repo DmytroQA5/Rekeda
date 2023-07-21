@@ -73,13 +73,5 @@ public class Konspect {
         this.educationalInstitution = educationalInstitution;
     }
 
-    @Override
-    public String toString() {
-        return "Студент: " + studentFullName +
-                "\nПредмет: " + subjectName +
-                "\nКоличество страниц: " + pageCount +
-                "\nГод выпуска: " + yearOfPublication +
-                "\nЦвет обложки: " + coverColor +
-                "\nОбразовательное учреждение: " + educationalInstitution;
-    }
+
 }
