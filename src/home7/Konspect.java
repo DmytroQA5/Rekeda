@@ -73,7 +73,7 @@ public class Konspect {
         this.educationalInstitution = educationalInstitution;
     }
 
-    @Override
+
     public String toString() {
         return "Студент: " + studentFullName +
                 "\nПредмет: " + subjectName +
