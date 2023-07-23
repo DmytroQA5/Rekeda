@@ -89,5 +89,7 @@ public class Computer {
         this.ram = ram;
         this.gpu = gpu;
 
+
+
     }
 }
